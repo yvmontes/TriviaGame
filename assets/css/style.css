@@ -1,0 +1,72 @@
+body {
+    background-image: url("../images/scarletbg.png");
+    font-family: serif;
+}
+
+#container {
+    width: 50%;
+    /*color: #dfd0b2;*/
+    color: #e8b947;
+    font-family: 'Raleway', sans-serif;
+    margin-left: auto;
+    margin-right: auto;  
+    margin-top: 40px;
+    border-radius: 50px;
+    background: #5e0b1f;
+    border: #410614 2px solid;
+    margin-bottom: 50px;
+}
+
+#header {
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 25px;
+}
+
+#quiz {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-left: 60px;
+}
+
+#count-number {
+    color: #fff;
+}
+
+#done {
+    color: #000;
+    background-color: #f8bd2a;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100px;
+}
+
+#done:hover {
+    background-color: #e6a507;
+    color: #000;
+  }
+
+ button {
+    color: #000;
+    font-size: 16px;
+    background-color: #f8bd2a;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100px;
+    font-family: 'Raleway', sans-serif;
+}
+
+button:hover {
+    background-color: #f2c658;
+    color: #000;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+  }
+
+
+  #startbutton {
+    padding-bottom: 30px;
+    padding-top: 0px;
+  }
